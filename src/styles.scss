@@ -52,7 +52,7 @@ body{
         margin-right: 10px;
         font-family: $CodeFont;
         font-weight: normal;
-        color: $Green;
+        color: $GreenE;
         font-size: 20px;
         position: relative;
         bottom: 4px;
@@ -73,9 +73,9 @@ body{
 
 
 .main-btn{
-    color: $Green;
+    color: $GreenE;
     background-color: transparent;
-    border: 1px solid $Green;
+    border: 1px solid $GreenE;
     border-radius: 3px;
     font-size: 13px;
     font-family: $CodeFont;
@@ -98,7 +98,7 @@ a{
 
     &:hover{
         text-decoration: none;
-        color: $Green;
+        color: $GreenE;
     }
 }
 
@@ -106,7 +106,7 @@ a{
   text-decoration: none;
   display: inline-block;
   position: relative;
-  color: $Green !important;
+  color: $GreenE !important;
 }
 .underline:after {
   background: none repeat scroll 0 0 transparent;
@@ -116,7 +116,7 @@ a{
   height: 1px;
   left: 50%;
   position: absolute;
-  background: $Green;
+  background: $GreenE;
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
   width: 0%;
 }

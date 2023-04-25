@@ -16,14 +16,14 @@
 
     a.active{
         background-color: $LightNavy !important;
-        color: $Green !important;
+        color: $GreenE !important;
         border-color: transparent !important;
         border-radius: 0px;
     }
     
     a:hover{
         background-color: $LightNavy !important;
-        color: $Green !important;
+        color: $GreenE !important;
         border-color: transparent !important;
         border-radius: 0px;
     }
@@ -80,7 +80,7 @@
         margin-bottom: 5px;
 
         .company-tab-content{
-            color: $Green;
+            color: $GreenE;
         }
     }
 
@@ -106,7 +106,7 @@
             content: '▹';
             position: absolute;
             left: 0;
-            color: $Green;
+            color: $GreenE;
         }
     }
 }

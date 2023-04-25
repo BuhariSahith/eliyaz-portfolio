@@ -13,7 +13,7 @@
 
         &:after{
             content: '';
-            border: 2px solid $Green;
+            border: 2px solid $GreenE;
             z-index: 0;
             display: block;
             position: relative;
@@ -55,7 +55,7 @@
             content: '▹';
             position: absolute;
             left: 0;
-            color: $Green;
+            color: $GreenE;
             font-size: 14px;
             line-height: 12px;
         }

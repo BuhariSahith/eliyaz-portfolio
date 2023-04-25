@@ -21,7 +21,7 @@
             .feature-proyect {
                 font-size: 13px;
                 font-weight: normal;
-                color: $Green;
+                color: $GreenE;
                 font-family: $CodeFont;
                 margin-top: 10px;
                 padding-top: 0;
@@ -215,7 +215,7 @@
 /* Handle */
 
  ::-webkit-scrollbar-thumb {
-    background: $Green;
+    background: $GreenE;
     border-radius: 3px;
 }
 
@@ -223,5 +223,5 @@
 /* Handle on hover */
 
  ::-webkit-scrollbar-thumb:hover {
-    background: $Green;
+    background: $GreenE;
 }
